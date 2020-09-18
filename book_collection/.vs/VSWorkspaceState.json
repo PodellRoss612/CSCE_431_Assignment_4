@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\controllers",
+    "\\app\\controllers\\concerns",
+    "\\app\\models",
+    "\\app\\views",
+    "\\app\\views\\books",
+    "\\app\\views\\book_collection",
+    "\\db",
+    "\\db\\migrate"
+  ],
+  "SelectedNode": "\\app\\models\\book.rb",
+  "PreviewInSolutionExplorer": false
+}
