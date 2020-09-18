@@ -5,7 +5,7 @@ Rails.application.routes.draw do
 	root 'books#index'
 	#root 'book_collection#home_page'
 
-	resources :books do
+	resources :books, path: '' do
 		member do
 			get :delete
 		end
